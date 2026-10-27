@@ -1,2 +1,3 @@
 welcome gitcloning
 modified in gitbash
+alterd in github
