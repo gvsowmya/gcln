@@ -1,8 +1,11 @@
-welcome gitcloning
+elcome gitcloning
 modified in gitbash
 alterd in github
 agin modify in gitbash
 again altered ingithub
 seen in jn
 altered watch
+HEAD
 today done in gitbash
+today in github
+ef70ee673e20d8d3c59cf8f530bcedc40360f0fe
